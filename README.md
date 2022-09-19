@@ -1,5 +1,9 @@
 # DOM Manipulation Assignment
 
+<p align="center">
+  <img src="https://learncodeonline.in/mascot.png">
+</p>
+
 ---
 
 1. Webiste Name: [Dev To](https://dev.to/)
@@ -647,4 +651,6 @@ I hope this assignment is also usefull to you!
 
 Thanks to:- **Hitesh Chaudhary** and **Anurag Tiwari**
 
-![alt text](https://learncodeonline.in/mascot.png)
+<p align="center">
+  <img src="https://learncodeonline.in/mascot.png">
+</p>
